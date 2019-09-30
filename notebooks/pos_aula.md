@@ -24,4 +24,8 @@ Extras:
 
 [Hypothesis Testing in Python](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
 
+[Parte 2]
+
+[Blog do Matheus Facure](https://matheusfacure.github.io/) Tem muito conteúdo bacana em português
+
 

@@ -4,6 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.6
+  - pip
   - jupyter=1.0.0
   - notebook=6.0.1
   - black=19.3b0
